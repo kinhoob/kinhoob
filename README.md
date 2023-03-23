@@ -13,9 +13,9 @@
   
   ##
 
-<div>
+<!-- <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kinhoob&show_icons=true&theme=merko">
-</div>
+</div> -->
 
 <div> 
   <a href="https://instagram.com/_barbosadmelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
