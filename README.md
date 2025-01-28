@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6cc4&height=120&section=header"/>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kinhoob&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=000000&text_color=c9d1d9&bg_color=4b92e3" alt="Marco Davi Github Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinhoob&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
-
 
 <div align="center"> 
 <a href="https://instagram.com/_barbosadmelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -22,6 +20,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kinhoob}/count.svg" /></p> 
 <br>
 </div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6cc4&height=120&section=footer"/>
