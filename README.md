@@ -23,7 +23,6 @@ Desenvolvedor Frontend com experiência prática em projetos reais e atuação c
 - 💼 Atualmente: **Assistente de TI** @ M.M. de Oliveira Minimercado Ltda
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** — UNIBRA
 - 🌍 Idiomas: **Português** (Nativo) · **Inglês** (B2)
-- 📍 Olinda, Pernambuco — Brasil
 
 ---
 
@@ -46,48 +45,3 @@ Desenvolvedor Frontend com experiência prática em projetos reais e atuação c
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack | Links |
-|---|---|---|---|
-| **Menu Online** | Cardápio digital responsivo para restaurantes locais, com foco em usabilidade mobile e acessibilidade | HTML · CSS · JS | [Demo](https://menu-online-pj9tsf80b-kinhoob.vercel.app/) · [Repo](https://github.com/kinhoob/menu-online) |
-| **Airpods** | Landing page premium inspirada no design da Apple, com animações suaves e estética refinada | HTML · CSS · JS | [Demo](https://airpods-mu.vercel.app/) · [Repo](https://github.com/kinhoob/airpods) |
-| **Rollie** | App de filmes com UI moderna, focado em boas práticas de desenvolvimento front-end | HTML · CSS · Sass · JS | [Demo](https://rollie-five.vercel.app/) · [Repo](https://github.com/kinhoob/rollie) |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kinhoob&show_icons=true&theme=transparent&hide_border=true&title_color=b8925a&icon_color=b8925a&text_color=555&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinhoob&layout=compact&theme=transparent&hide_border=true&title_color=b8925a&text_color=555" />
-
-</div>
-
----
-
-## 💼 Experiência
-
-**Assistente de TI** — M.M. de Oliveira Minimercado Ltda *(2024 — Atual)*
-Suporte técnico a usuários, manutenção de computadores, redes e sistemas internos.
-
-**Desenvolvedor Frontend Freelancer** — Remoto *(2022 — Atual)*
-Desenvolvimento de interfaces responsivas com foco em usabilidade e experiência do usuário.
-
-**Estagiário — Dev Frontend & Backend** — Secretaria da Fazenda de Olinda *(Abr. 2022 — Dez. 2023)*
-Desenvolvimento de soluções com HTML, CSS, PHP e JavaScript em demandas reais da Sefaz de Olinda.
-
----
-
-<div align="center">
-
-*Vamos construir algo juntos?*
-
-[![Portfolio](https://img.shields.io/badge/Ver%20Portfólio-b8925a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kinhoob.github.io/portfolio)
-
-</div>
